@@ -13,8 +13,8 @@ Generally speaking, our analysis showed that 2017 was a better year for stock pe
 Additionally, in 2017, four stocks (DQ, SEDG, ENPH, and FSLR) had returns greater than 100% and were performing very highly, but in 2018 these returns decreased. DQ, SEDG, and FSLR show negative returns in 2018, while returns for ENPH decreased from 129.5% to 81.9%.
 
 ### Script Execution Times
-![Time to execute refactored script for 2017](/Resources/VBA_Challenge_2017.png)
-![Time to execute refactored script for 2018](/Resources/VBA_Challenge_2018.png)
+[Time to execute refactored script for 2017](/Resources/VBA_Challenge_2017.png)
+[Time to execute refactored script for 2018](/Resources/VBA_Challenge_2018.png)
 
 ## Summary
 One advantage of refactoring code is that it can make the code more efficient so that it runs more quickly and doesn't require as much memory.
